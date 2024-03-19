@@ -7,7 +7,19 @@ C# DLA algorithm
 
 https://youtu.be/G_JJr2HRL0s
 
+![image](https://github.com/tltrus/DLA/assets/77125487/5cf4c71a-2ba1-42f1-949c-1da6a4862d82)
+
 Based on Brownian Tree Snowflake. Coding Challenge #127 
 https://codingtrain.github.io/website-archive/CodingChallenges/127-snowflake-brownian.html
 
-![image](https://github.com/tltrus/DLA/assets/77125487/5cf4c71a-2ba1-42f1-949c-1da6a4862d82)
+
+
+# DLA-walker
+
+C# DLA algorithm
+
+https://youtu.be/TlhfjLPkyYg
+
+![image](https://github.com/tltrus/DLA/assets/77125487/4e58d503-42d8-49ea-9e86-c2283fabd639)
+
+Based on Coding Challenge #34 https://codingtrain.github.io/website-archive/CodingChallenges/034-dla.html
