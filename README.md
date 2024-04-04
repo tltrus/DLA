@@ -13,6 +13,15 @@ Based on Brownian Tree Snowflake. Coding Challenge #127
 https://codingtrain.github.io/website-archive/CodingChallenges/127-snowflake-brownian.html
 
 
+# RRT-walker
+
+Rapidly exploring random tree (RRT) algorithm.
+
+It looks like the growth of a crystal
+
+![image](https://github.com/tltrus/DLA/assets/77125487/e18df8bd-d350-4726-92f4-f9e398039038)
+
+
 
 # DLA-walker
 
