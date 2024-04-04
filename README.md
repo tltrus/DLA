@@ -19,6 +19,8 @@ Rapidly exploring random tree (RRT) algorithm.
 
 It looks like the growth of a crystal
 
+https://youtu.be/z4XdfG7UhQE
+
 ![image](https://github.com/tltrus/DLA/assets/77125487/e18df8bd-d350-4726-92f4-f9e398039038)
 
 
