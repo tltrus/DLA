@@ -1,6 +1,16 @@
 # DLA
  Diffusion-limited aggregation
 
+# DLA-crystal
+
+C# DLA algorithm
+
+https://youtu.be/2G_HY3tb7es
+ 
+![Uploading image.png…]()
+
+
+
 # Snowflake
 
 C# DLA algorithm
