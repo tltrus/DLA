@@ -7,8 +7,7 @@ C# DLA algorithm
 
 https://youtu.be/2G_HY3tb7es
  
-![Uploading image.png…]()
-
+![image](https://github.com/tltrus/DLA/assets/77125487/379e7e74-cbf0-4aee-b37b-5a9f549142ae)
 
 
 # Snowflake
