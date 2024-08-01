@@ -24,7 +24,7 @@ https://codingtrain.github.io/website-archive/CodingChallenges/127-snowflake-bro
 
 # RRT-path-finding
 
-C# RRT path planning algorithm
+C# RRT path planning algorithm without final path optimization.
 
 
 
