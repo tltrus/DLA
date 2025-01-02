@@ -5,7 +5,7 @@
 
 C# DLA algorithm
 
-https://youtu.be/2G_HY3tb7es
+- Youtube: https://youtu.be/2G_HY3tb7es
  
 ![image](https://github.com/tltrus/DLA/assets/77125487/379e7e74-cbf0-4aee-b37b-5a9f549142ae)
 
@@ -14,7 +14,7 @@ https://youtu.be/2G_HY3tb7es
 
 C# DLA algorithm
 
-https://youtu.be/G_JJr2HRL0s
+- Youtube: https://youtu.be/G_JJr2HRL0s
 
 ![image](https://github.com/tltrus/DLA/assets/77125487/5cf4c71a-2ba1-42f1-949c-1da6a4862d82)
 
@@ -26,7 +26,7 @@ https://codingtrain.github.io/website-archive/CodingChallenges/127-snowflake-bro
 
 C# RRT path planning algorithm without final path optimization.
 
-https://youtu.be/QK_pZCmUQkQ
+- Youtube: https://youtu.be/QK_pZCmUQkQ
 
 ![image](https://github.com/user-attachments/assets/b0780619-372a-4332-8c72-75b0e4f9a922)
 
@@ -37,7 +37,7 @@ Rapidly exploring random tree (RRT) algorithm.
 
 It looks like the growth of a crystal
 
-https://youtu.be/z4XdfG7UhQE
+- Youtube: https://youtu.be/z4XdfG7UhQE
 
 ![image](https://github.com/tltrus/DLA/assets/77125487/e18df8bd-d350-4726-92f4-f9e398039038)
 
@@ -47,7 +47,7 @@ https://youtu.be/z4XdfG7UhQE
 
 C# DLA algorithm
 
-https://youtu.be/TlhfjLPkyYg
+- Youtube: https://youtu.be/TlhfjLPkyYg
 
 ![image](https://github.com/tltrus/DLA/assets/77125487/4e58d503-42d8-49ea-9e86-c2283fabd639)
 
